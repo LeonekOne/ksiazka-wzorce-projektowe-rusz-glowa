@@ -1,0 +1,11 @@
+# comment
+# use / after directory
+target/
+.idea/
+src/main/java/docDirectory/
+.DS_Store
+src/.DS_Store
+src/main/.DS_Store
+
+# ignore files
+
