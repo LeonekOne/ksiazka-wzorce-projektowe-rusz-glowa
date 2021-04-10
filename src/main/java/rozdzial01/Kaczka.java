@@ -21,4 +21,12 @@ public abstract class Kaczka {
         System.out.println("Wszystkie kaczki pływają, nawet te sztuczne!");
     }
 
+    public void ustawLatanieInterfejs(LatanieInterfejs li) {
+        latanieInterfejs = li;
+    }
+
+    public void ustawKwakanieInterfejs(KwakanieInterfejs ki) {
+        kwakanieInterfejs = ki;
+    }
+
 }
